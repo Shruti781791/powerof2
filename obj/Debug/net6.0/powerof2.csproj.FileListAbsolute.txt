@@ -1,0 +1,15 @@
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\bin\Debug\net6.0\powerof2.exe
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\bin\Debug\net6.0\powerof2.deps.json
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\bin\Debug\net6.0\powerof2.runtimeconfig.json
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\bin\Debug\net6.0\powerof2.dll
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\bin\Debug\net6.0\powerof2.pdb
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\obj\Debug\net6.0\powerof2.csproj.AssemblyReference.cache
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\obj\Debug\net6.0\powerof2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\obj\Debug\net6.0\powerof2.AssemblyInfoInputs.cache
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\obj\Debug\net6.0\powerof2.AssemblyInfo.cs
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\obj\Debug\net6.0\powerof2.csproj.CoreCompileInputs.cache
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\obj\Debug\net6.0\powerof2.dll
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\obj\Debug\net6.0\refint\powerof2.dll
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\obj\Debug\net6.0\powerof2.pdb
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\obj\Debug\net6.0\powerof2.genruntimeconfig.cache
+D:\DLSRFP231\Day5 Basic-core-Programs\powerof2\obj\Debug\net6.0\ref\powerof2.dll
